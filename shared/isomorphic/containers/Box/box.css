@@ -1,0 +1,28 @@
+.react-grid-item.react-grid-placeholder {
+  background: #ddd;
+  border: 2px dashed #000;
+}
+
+.react-resizable {
+  position: relative;
+}
+
+.react-grid-item {
+  display: block;
+}
+
+.react-grid-item > .react-resizable-handle {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  bottom: 1px;
+  right: 1px;
+  background: url(data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0ZWQgYnkgSWNvTW9vbi5pbyAtLT4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSI1MTJweCIgaGVpZ2h0PSI1MTJweCIgdmlld0JveD0iMCAwIDE2IDE2Ij4KPHBhdGggZmlsbD0iI2NjY2NjYyIgZD0iTTYuNyAxNmw5LjMtOS4zdi0xLjRsLTEwLjcgMTAuN3oiLz4KPHBhdGggZmlsbD0iI2NjY2NjYyIgZD0iTTkuNyAxNmw2LjMtNi4zdi0xLjRsLTcuNyA3Ljd6Ii8+CjxwYXRoIGZpbGw9IiNjY2NjY2MiIGQ9Ik0xMi43IDE2bDMuMy0zLjN2LTEuNGwtNC43IDQuN3oiLz4KPHBhdGggZmlsbD0iI2NjY2NjYyIgZD0iTTE1LjcgMTZsMC4zLTAuM3YtMS40bC0xLjcgMS43eiIvPgo8L3N2Zz4K);
+  background-position: bottom right;
+  background-size: cover;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  box-sizing: border-box;
+  cursor: se-resize;
+}

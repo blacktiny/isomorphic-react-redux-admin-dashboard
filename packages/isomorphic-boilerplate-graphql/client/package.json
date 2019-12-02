@@ -1,0 +1,40 @@
+{
+  "name": "isomorphic-boilerplate-graphql",
+  "version": "1.0.1",
+  "private": true,
+  "dependencies": {
+    "@apollo/react-hooks": "^3.1.2",
+    "apollo-boost": "^0.4.4",
+    "graphql": "^14.5.8",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-scripts": "3.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.12.2",
+    "customize-cra": "^0.8.0",
+    "react-app-rewired": "^2.1.4"
+  },
+  "scripts": {
+    "client": "react-app-rewired start",
+    "start:gql": "react-app-rewired start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

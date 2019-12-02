@@ -1,0 +1,15 @@
+.git
+node_modules
+.next
+out
+packages/hotel
+packages/hotel-next
+packages/isomorphic
+packages/isomorphic-servers
+packages/isomorphic-boilerplate
+packages/isomorphic-boilerplate-single
+packages/isomorphic-boilerplate-graphql
+shared/hotel
+# packages/isomorphic-next
+# shared/common
+# shared/isomorphic

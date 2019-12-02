@@ -1,0 +1,55 @@
+{
+  "name": "isomorphic",
+  "description": "",
+  "version": "3.0.3",
+  "private": true,
+  "author": "RedQ, Inc",
+  "workspaces": [
+    "shared/**/*",
+    "packages/*",
+    "packages/isomorphic-boilerplate-graphql/*"
+  ],
+  "scripts": {
+    "clean": "lerna clean --yes && rimraf node_modules",
+    "clean:build": "lerna exec -- rimraf \"{.next,dist,out,build,.docz}\"",
+    "start:all": "lerna run --parallel start",
+    "start:iso-cra": "yarn workspace isomorphic run start",
+    "start:iso-next": "yarn workspace isomorphicnext run dev",
+    "start:iso-servers": "yarn workspace isomorphic-servers run start",
+    "start:iso-boilerplate": "yarn workspace isomorphic-boilerplate run start",
+    "start:iso-gql": "lerna run --parallel start:gql",
+    "start:hotel": "yarn workspace hotel run start",
+    "start:hotel-next": "yarn workspace hotel-next run dev",
+    "build:iso-cra": "yarn workspace isomorphic run build",
+    "build:iso-next": "yarn workspace isomorphicnext run build",
+    "build:iso-boilerplate": "yarn workspace isomorphic-boilerplate run build",
+    "build:hotel": "yarn workspace hotel run build",
+    "build:hotel-next": "yarn workspace hotel-next run build",
+    "serve:iso-cra": "yarn workspace isomorphic run serve",
+    "serve:iso-next": "yarn workspace isomorphicnext run serve",
+    "serve:iso-boilerplate": "yarn workspace isomorphicnext run serve",
+    "serve:hotel": "yarn workspace hotel run serve",
+    "serve:hotel-next": "yarn workspace hotel-next run serve"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,md,css}": [
+      "prettier --trailing-comma es5 --single-quote --write",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.0",
+    "husky": "^3.0.7",
+    "lerna": "^3.16.4",
+    "lint-staged": "^9.4.0",
+    "prettier": "^1.18.2",
+    "redux-devtools-extension": "^2.13.8",
+    "rimraf": "^3.0.0",
+    "serve": "^11.2.0"
+  }
+}

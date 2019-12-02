@@ -1,0 +1,34 @@
+{
+  "name": "iso-gql-server",
+  "version": "1.0.1",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "apollo-server-micro": "^2.9.6",
+    "graphql": "^14.5.8",
+    "micro": "^9.3.4",
+    "micro-cors": "^0.1.1"
+  },
+  "scripts": {
+    "server": "micro -p 4000",
+    "start:gql": "micro-dev -p 4000"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}

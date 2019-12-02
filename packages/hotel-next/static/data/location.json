@@ -1,0 +1,359 @@
+[
+  {
+    "id": 85992,
+    "lat": "13.4149",
+    "lng": "8.4034",
+    "formattedAddress": "27384 Tremblay Causeway",
+    "zipcode": "82925",
+    "city": "London",
+    "state_long": "Montana",
+    "state_short": "DE",
+    "country_long": "England",
+    "country_short": "CL",
+    "locationImage": {
+      "id": 63700,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 54129
+  },
+  {
+    "id": 31657,
+    "lat": "-46.6464",
+    "lng": "-159.9779",
+    "formattedAddress": "0977 Turner Avenue",
+    "zipcode": "54996",
+    "city": "New York",
+    "state_long": "Kansas",
+    "state_short": "FL",
+    "country_long": "United States of America",
+    "country_short": "BZ",
+    "locationImage": {
+      "id": 10311,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 19236
+  },
+  {
+    "id": 87806,
+    "lat": "-59.8068",
+    "lng": "140.0707",
+    "formattedAddress": "0443 Abshire Ferry",
+    "zipcode": "82618-9791",
+    "city": "Barcelona",
+    "state_long": "Pennsylvania",
+    "state_short": "MA",
+    "country_long": "Spain",
+    "country_short": "MP",
+    "locationImage": {
+      "id": 36159,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 45667
+  },
+  {
+    "id": 42541,
+    "lat": "-1.6178",
+    "lng": "169.5870",
+    "formattedAddress": "5274 Wolf Junctions",
+    "zipcode": "91109-9223",
+    "city": "Rome",
+    "state_long": "South Carolina",
+    "state_short": "NY",
+    "country_long": "Saint Vincent and the Grenadines",
+    "country_short": "FO",
+    "locationImage": {
+      "id": 22545,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 37695
+  },
+  {
+    "id": 44180,
+    "lat": "-34.3165",
+    "lng": "-178.7267",
+    "formattedAddress": "1840 Bryana Course",
+    "zipcode": "87809",
+    "city": "Paris",
+    "state_long": "New Hampshire",
+    "state_short": "AK",
+    "country_long": "France",
+    "country_short": "SI",
+    "locationImage": {
+      "id": 78277,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 23494
+  },
+  {
+    "id": 53411,
+    "lat": "71.2189",
+    "lng": "-1.9584",
+    "formattedAddress": "739 Kennedy Islands",
+    "zipcode": "87520-7549",
+    "city": "Cairo",
+    "state_long": "New Mexico",
+    "state_short": "UT",
+    "country_long": "China",
+    "country_short": "BS",
+    "locationImage": {
+      "id": 86832,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 49863
+  },
+  {
+    "id": 58516,
+    "lat": "-20.8621",
+    "lng": "-64.3774",
+    "formattedAddress": "0383 Timmothy Turnpike",
+    "zipcode": "28887-0882",
+    "city": "Abu Dhabi",
+    "state_long": "Indiana",
+    "state_short": "NV",
+    "country_long": "Serbia",
+    "country_short": "BD",
+    "locationImage": {
+      "id": 22316,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 57149
+  },
+  {
+    "id": 94202,
+    "lat": "43.3198",
+    "lng": "93.8924",
+    "formattedAddress": "118 Malcolm Street",
+    "zipcode": "46647-9052",
+    "city": "North Nikolas",
+    "state_long": "California",
+    "state_short": "WI",
+    "country_long": "Iran",
+    "country_short": "VE",
+    "locationImage": {
+      "id": 13077,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 38746
+  },
+  {
+    "id": 70256,
+    "lat": "27.9760",
+    "lng": "-106.9702",
+    "formattedAddress": "38938 Douglas Falls",
+    "zipcode": "92050-4335",
+    "city": "Las Vegas",
+    "state_long": "Mississippi",
+    "state_short": "ME",
+    "country_long": "Samoa",
+    "country_short": "CU",
+    "locationImage": {
+      "id": 98245,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 25146
+  },
+  {
+    "id": 24224,
+    "lat": "38.7937",
+    "lng": "-78.5376",
+    "formattedAddress": "03028 Neal Views",
+    "zipcode": "23274",
+    "city": "Sydney",
+    "state_long": "New Hampshire",
+    "state_short": "TN",
+    "country_long": "China",
+    "country_short": "NR",
+    "locationImage": {
+      "id": 63820,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 72770
+  },
+  {
+    "id": 30182,
+    "lat": "10.2404",
+    "lng": "-172.6162",
+    "formattedAddress": "0011 Hertha Street",
+    "zipcode": "82449-7288",
+    "city": "Prague",
+    "state_long": "Washington",
+    "state_short": "TX",
+    "country_long": "Saint Pierre and Miquelon",
+    "country_short": "GE",
+    "locationImage": {
+      "id": 98188,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 38442
+  },
+  {
+    "id": 14595,
+    "lat": "86.6046",
+    "lng": "98.9394",
+    "formattedAddress": "78563 Lockman Ferry",
+    "zipcode": "19461",
+    "city": "Venice",
+    "state_long": "New Hampshire",
+    "state_short": "DE",
+    "country_long": "Saint Kitts and Nevis",
+    "country_short": "ST",
+    "locationImage": {
+      "id": 21208,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 88565
+  },
+  {
+    "id": 36386,
+    "lat": "72.0044",
+    "lng": "14.7430",
+    "formattedAddress": "839 Domenica Plains",
+    "zipcode": "53749-2159",
+    "city": "Melbourne",
+    "state_long": "Pennsylvania",
+    "state_short": "GA",
+    "country_long": "Kuwait",
+    "country_short": "BE",
+    "locationImage": {
+      "id": 43268,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 2602
+  },
+  {
+    "id": 39147,
+    "lat": "9.8055",
+    "lng": "-145.7654",
+    "formattedAddress": "36650 Von Spring",
+    "zipcode": "33799-0309",
+    "city": "Madrid",
+    "state_long": "Washington",
+    "state_short": "HI",
+    "country_long": "Ireland",
+    "country_short": "GI",
+    "locationImage": {
+      "id": 38724,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 51118
+  },
+  {
+    "id": 66716,
+    "lat": "62.8988",
+    "lng": "97.6713",
+    "formattedAddress": "483 Wiza Forest",
+    "zipcode": "14169-9612",
+    "city": "Berlin",
+    "state_long": "Massachusetts",
+    "state_short": "KY",
+    "country_long": "Saint Lucia",
+    "country_short": "FI",
+    "locationImage": {
+      "id": 36565,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 27346
+  },
+  {
+    "id": 72258,
+    "lat": "-16.3432",
+    "lng": "104.1632",
+    "formattedAddress": "7247 Lehner Skyway",
+    "zipcode": "27364-8096",
+    "city": "Budapest",
+    "state_long": "Missouri",
+    "state_short": "VT",
+    "country_long": "Bahrain",
+    "country_short": "SV",
+    "locationImage": {
+      "id": 35663,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 38602
+  },
+  {
+    "id": 98015,
+    "lat": "-33.4047",
+    "lng": "69.3412",
+    "formattedAddress": "8644 Esmeralda Club",
+    "zipcode": "26009",
+    "city": "Vienna",
+    "state_long": "Alabama",
+    "state_short": "CA",
+    "country_long": "Malaysia",
+    "country_short": "TW",
+    "locationImage": {
+      "id": 50991,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 78635
+  },
+  {
+    "id": 87762,
+    "lat": "-59.4019",
+    "lng": "-83.7868",
+    "formattedAddress": "888 Vern Village",
+    "zipcode": "01761",
+    "city": "Seattle",
+    "state_long": "Oregon",
+    "state_short": "NM",
+    "country_long": "Kuwait",
+    "country_short": "NI",
+    "locationImage": {
+      "id": 27839,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 39454
+  },
+  {
+    "id": 51101,
+    "lat": "-15.2962",
+    "lng": "139.7045",
+    "formattedAddress": "99618 Kariane Harbors",
+    "zipcode": "57302-2701",
+    "city": "San Franciso",
+    "state_long": "Utah",
+    "state_short": "SC",
+    "country_long": "Lesotho",
+    "country_short": "KN",
+    "locationImage": {
+      "id": 45055,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 31654
+  },
+  {
+    "id": 54479,
+    "lat": "19.9557",
+    "lng": "-23.7130",
+    "formattedAddress": "9499 Orin Pines",
+    "zipcode": "58702",
+    "city": "Athens",
+    "state_long": "Maryland",
+    "state_short": "OH",
+    "country_long": "Botswana",
+    "country_short": "EC",
+    "locationImage": {
+      "id": 67231,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 40896
+  },
+  {
+    "id": 94202,
+    "lat": "43.3198",
+    "lng": "93.8924",
+    "formattedAddress": "118 Malcolm Street",
+    "zipcode": "46647-9052",
+    "city": "Dubai",
+    "state_long": "California",
+    "state_short": "WI",
+    "country_long": "Iran",
+    "country_short": "VE",
+    "locationImage": {
+      "id": 13077,
+      "url": "/static/placeholder/location_slider_thumb.jpg"
+    },
+    "numberOfPost": 38746
+  }
+]
